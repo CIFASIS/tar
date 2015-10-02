@@ -43,8 +43,6 @@ library
     Codec.Archive.Tar.Entry
     Codec.Archive.Tar.Check
     Codec.Archive.Tar.Index
-
-  other-modules:
     Codec.Archive.Tar.Types
     Codec.Archive.Tar.Read
     Codec.Archive.Tar.Write
